@@ -1,0 +1,19 @@
+John monday logins on system computer-winner
+John monday logins on system computer-winner
+Mary friday logins on system computer-winner
+John friday logins on system computer-mars
+Tom logins on system computer-mars
+Cherry logins on system computer-moon
+Kevin leaves at 10:23:35
+bob leaves at 10:23:35
+Lucy leaves at 10:24:55
+Kite leaves at 23:34:12
+Kite leaves at 23:34:12
+Kite leaves at 23:34:12
+Kite leaves at 23:34:12
+Send message 0x14 from 129.168.0.1 to 188.23.3.34
+Receive message 0x15 from 188.23.3.34 to 129.199.2.1
+The link abc is: broken
+The link abc is: down
+message is sent
+message is received
